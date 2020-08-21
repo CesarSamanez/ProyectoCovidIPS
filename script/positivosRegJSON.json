@@ -1,0 +1,1184 @@
+[
+    {
+        "fecha": "20200811",
+        "cantidad": "3199",
+        "departamento": "AMAZONAS",
+        "provincia": "BAGUA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "120",
+        "departamento": "AMAZONAS",
+        "provincia": "BONGARA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "687",
+        "departamento": "AMAZONAS",
+        "provincia": "CHACHAPOYAS"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "1116",
+        "departamento": "AMAZONAS",
+        "provincia": "CONDORCANQUI"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "227",
+        "departamento": "AMAZONAS",
+        "provincia": "LUYA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "53",
+        "departamento": "AMAZONAS",
+        "provincia": "RODRIGUEZ DE MENDOZA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "2039",
+        "departamento": "AMAZONAS",
+        "provincia": "UTCUBAMBA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "24",
+        "departamento": "ANCASH",
+        "provincia": "AIJA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "34",
+        "departamento": "ANCASH",
+        "provincia": "ANTONIO RAIMONDI"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "6",
+        "departamento": "ANCASH",
+        "provincia": "ASUNCION"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "71",
+        "departamento": "ANCASH",
+        "provincia": "BOLOGNESI"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "112",
+        "departamento": "ANCASH",
+        "provincia": "CARHUAZ"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "12",
+        "departamento": "ANCASH",
+        "provincia": "CARLOS FERMIN FITZCARRALD"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "525",
+        "departamento": "ANCASH",
+        "provincia": "CASMA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "22",
+        "departamento": "ANCASH",
+        "provincia": "CORONGO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "3122",
+        "departamento": "ANCASH",
+        "provincia": "HUARAZ"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "120",
+        "departamento": "ANCASH",
+        "provincia": "HUARI"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "558",
+        "departamento": "ANCASH",
+        "provincia": "HUARMEY"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "323",
+        "departamento": "ANCASH",
+        "provincia": "HUAYLAS"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "49",
+        "departamento": "ANCASH",
+        "provincia": "MARISCAL LUZURIAGA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "26",
+        "departamento": "ANCASH",
+        "provincia": "OCROS"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "31",
+        "departamento": "ANCASH",
+        "provincia": "PALLASCA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "141",
+        "departamento": "ANCASH",
+        "provincia": "POMABAMBA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "107",
+        "departamento": "ANCASH",
+        "provincia": "RECUAY"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "8681",
+        "departamento": "ANCASH",
+        "provincia": "SANTA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "94",
+        "departamento": "ANCASH",
+        "provincia": "SIHUAS"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "157",
+        "departamento": "ANCASH",
+        "provincia": "YUNGAY"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "831",
+        "departamento": "APURIMAC",
+        "provincia": "ABANCAY"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "372",
+        "departamento": "APURIMAC",
+        "provincia": "ANDAHUAYLAS"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "16",
+        "departamento": "APURIMAC",
+        "provincia": "ANTABAMBA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "41",
+        "departamento": "APURIMAC",
+        "provincia": "AYMARAES"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "87",
+        "departamento": "APURIMAC",
+        "provincia": "CHINCHEROS"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "105",
+        "departamento": "APURIMAC",
+        "provincia": "COTABAMBAS"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "27",
+        "departamento": "APURIMAC",
+        "provincia": "GRAU"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "18563",
+        "departamento": "AREQUIPA",
+        "provincia": "AREQUIPA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "294",
+        "departamento": "AREQUIPA",
+        "provincia": "CAMANA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "281",
+        "departamento": "AREQUIPA",
+        "provincia": "CARAVELI"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "148",
+        "departamento": "AREQUIPA",
+        "provincia": "CASTILLA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "676",
+        "departamento": "AREQUIPA",
+        "provincia": "CAYLLOMA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "27",
+        "departamento": "AREQUIPA",
+        "provincia": "CONDESUYOS"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "740",
+        "departamento": "AREQUIPA",
+        "provincia": "ISLAY"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "24",
+        "departamento": "AREQUIPA",
+        "provincia": "LA UNION"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "75",
+        "departamento": "AYACUCHO",
+        "provincia": "CANGALLO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "4068",
+        "departamento": "AYACUCHO",
+        "provincia": "HUAMANGA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "9",
+        "departamento": "AYACUCHO",
+        "provincia": "HUANCA SANCOS"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "412",
+        "departamento": "AYACUCHO",
+        "provincia": "HUANTA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "193",
+        "departamento": "AYACUCHO",
+        "provincia": "LA MAR"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "211",
+        "departamento": "AYACUCHO",
+        "provincia": "LUCANAS"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "191",
+        "departamento": "AYACUCHO",
+        "provincia": "PARINACOCHAS"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "18",
+        "departamento": "AYACUCHO",
+        "provincia": "PAUCAR DEL SARA SARA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "8",
+        "departamento": "AYACUCHO",
+        "provincia": "SUCRE"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "51",
+        "departamento": "AYACUCHO",
+        "provincia": "VICTOR FAJARDO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "32",
+        "departamento": "AYACUCHO",
+        "provincia": "VILCAS HUAMAN"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "164",
+        "departamento": "CAJAMARCA",
+        "provincia": "CAJABAMBA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "3195",
+        "departamento": "CAJAMARCA",
+        "provincia": "CAJAMARCA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "164",
+        "departamento": "CAJAMARCA",
+        "provincia": "CELENDIN"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "260",
+        "departamento": "CAJAMARCA",
+        "provincia": "CHOTA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "77",
+        "departamento": "CAJAMARCA",
+        "provincia": "CONTUMAZA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "175",
+        "departamento": "CAJAMARCA",
+        "provincia": "CUTERVO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "257",
+        "departamento": "CAJAMARCA",
+        "provincia": "HUALGAYOC"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "3859",
+        "departamento": "CAJAMARCA",
+        "provincia": "JAEN"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "583",
+        "departamento": "CAJAMARCA",
+        "provincia": "SAN IGNACIO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "79",
+        "departamento": "CAJAMARCA",
+        "provincia": "SAN MARCOS"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "137",
+        "departamento": "CAJAMARCA",
+        "provincia": "SAN MIGUEL"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "69",
+        "departamento": "CAJAMARCA",
+        "provincia": "SAN PABLO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "159",
+        "departamento": "CAJAMARCA",
+        "provincia": "SANTA CRUZ"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "22357",
+        "departamento": "CALLAO",
+        "provincia": "CALLAO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "31",
+        "departamento": "CUSCO",
+        "provincia": "ACOMAYO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "129",
+        "departamento": "CUSCO",
+        "provincia": "ANTA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "82",
+        "departamento": "CUSCO",
+        "provincia": "CALCA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "36",
+        "departamento": "CUSCO",
+        "provincia": "CANAS"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "202",
+        "departamento": "CUSCO",
+        "provincia": "CANCHIS"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "44",
+        "departamento": "CUSCO",
+        "provincia": "CHUMBIVILCAS"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "5203",
+        "departamento": "CUSCO",
+        "provincia": "CUSCO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "80",
+        "departamento": "CUSCO",
+        "provincia": "ESPINAR"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "1307",
+        "departamento": "CUSCO",
+        "provincia": "LA CONVENCION"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "31",
+        "departamento": "CUSCO",
+        "provincia": "PARURO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "28",
+        "departamento": "CUSCO",
+        "provincia": "PAUCARTAMBO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "137",
+        "departamento": "CUSCO",
+        "provincia": "QUISPICANCHI"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "124",
+        "departamento": "CUSCO",
+        "provincia": "URUBAMBA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "313",
+        "departamento": "HUANCAVELICA",
+        "provincia": "ACOBAMBA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "228",
+        "departamento": "HUANCAVELICA",
+        "provincia": "ANGARAES"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "101",
+        "departamento": "HUANCAVELICA",
+        "provincia": "CASTROVIRREYNA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "106",
+        "departamento": "HUANCAVELICA",
+        "provincia": "CHURCAMPA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "1448",
+        "departamento": "HUANCAVELICA",
+        "provincia": "HUANCAVELICA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "100",
+        "departamento": "HUANCAVELICA",
+        "provincia": "HUAYTARA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "295",
+        "departamento": "HUANCAVELICA",
+        "provincia": "TAYACAJA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "219",
+        "departamento": "HUANUCO",
+        "provincia": "AMBO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "161",
+        "departamento": "HUANUCO",
+        "provincia": "DOS DE MAYO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "9",
+        "departamento": "HUANUCO",
+        "provincia": "HUACAYBAMBA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "272",
+        "departamento": "HUANUCO",
+        "provincia": "HUAMALIES"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "4883",
+        "departamento": "HUANUCO",
+        "provincia": "HUANUCO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "30",
+        "departamento": "HUANUCO",
+        "provincia": "LAURICOCHA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "647",
+        "departamento": "HUANUCO",
+        "provincia": "LEONCIO PRADO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "13",
+        "departamento": "HUANUCO",
+        "provincia": "MARA\u00c3\u0091ON"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "121",
+        "departamento": "HUANUCO",
+        "provincia": "PACHITEA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "344",
+        "departamento": "HUANUCO",
+        "provincia": "PUERTO INCA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "70",
+        "departamento": "HUANUCO",
+        "provincia": "YAROWILCA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "3085",
+        "departamento": "ICA",
+        "provincia": "CHINCHA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "7067",
+        "departamento": "ICA",
+        "provincia": "ICA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "1219",
+        "departamento": "ICA",
+        "provincia": "NAZCA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "656",
+        "departamento": "ICA",
+        "provincia": "PALPA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "2693",
+        "departamento": "ICA",
+        "provincia": "PISCO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "1508",
+        "departamento": "JUNIN",
+        "provincia": "CHANCHAMAYO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "617",
+        "departamento": "JUNIN",
+        "provincia": "CHUPACA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "298",
+        "departamento": "JUNIN",
+        "provincia": "CONCEPCION"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "5420",
+        "departamento": "JUNIN",
+        "provincia": "HUANCAYO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "288",
+        "departamento": "JUNIN",
+        "provincia": "JAUJA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "217",
+        "departamento": "JUNIN",
+        "provincia": "JUNIN"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "734",
+        "departamento": "JUNIN",
+        "provincia": "SATIPO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "410",
+        "departamento": "JUNIN",
+        "provincia": "TARMA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "577",
+        "departamento": "JUNIN",
+        "provincia": "YAULI"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "1043",
+        "departamento": "LA LIBERTAD",
+        "provincia": "ASCOPE"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "2",
+        "departamento": "LA LIBERTAD",
+        "provincia": "BOLIVAR"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "1418",
+        "departamento": "LA LIBERTAD",
+        "provincia": "CHEPEN"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "152",
+        "departamento": "LA LIBERTAD",
+        "provincia": "GRAN CHIMU"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "36",
+        "departamento": "LA LIBERTAD",
+        "provincia": "JULCAN"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "202",
+        "departamento": "LA LIBERTAD",
+        "provincia": "OTUZCO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "553",
+        "departamento": "LA LIBERTAD",
+        "provincia": "PACASMAYO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "324",
+        "departamento": "LA LIBERTAD",
+        "provincia": "PATAZ"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "203",
+        "departamento": "LA LIBERTAD",
+        "provincia": "SANCHEZ CARRION"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "203",
+        "departamento": "LA LIBERTAD",
+        "provincia": "SANTIAGO DE CHUCO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "13135",
+        "departamento": "LA LIBERTAD",
+        "provincia": "TRUJILLO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "704",
+        "departamento": "LA LIBERTAD",
+        "provincia": "VIRU"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "12814",
+        "departamento": "LAMBAYEQUE",
+        "provincia": "CHICLAYO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "1310",
+        "departamento": "LAMBAYEQUE",
+        "provincia": "FERRE\u00c3\u0091AFE"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "4209",
+        "departamento": "LAMBAYEQUE",
+        "provincia": "LAMBAYEQUE"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "0",
+        "departamento": "LIMA REGION",
+        "provincia": "LIMA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "0",
+        "departamento": "LIMA REGION",
+        "provincia": "LIMA REGION"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "2506",
+        "departamento": "LIMA REGION",
+        "provincia": "BARRANCA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "21",
+        "departamento": "LIMA REGION",
+        "provincia": "CAJATAMBO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "2924",
+        "departamento": "LIMA REGION",
+        "provincia": "CANETE"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "274",
+        "departamento": "LIMA REGION",
+        "provincia": "CANTA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "3787",
+        "departamento": "LIMA REGION",
+        "provincia": "HUARAL"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "914",
+        "departamento": "LIMA REGION",
+        "provincia": "HUAROCHIRI"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "4634",
+        "departamento": "LIMA REGION",
+        "provincia": "HUAURA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "40",
+        "departamento": "LIMA REGION",
+        "provincia": "OYON"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "121",
+        "departamento": "LIMA REGION",
+        "provincia": "YAUYOS"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "1558",
+        "departamento": "LORETO",
+        "provincia": "ALTO AMAZONAS"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "1339",
+        "departamento": "LORETO",
+        "provincia": "DATEM DEL MARA\u00c3\u0091ON"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "905",
+        "departamento": "LORETO",
+        "provincia": "LORETO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "391",
+        "departamento": "LORETO",
+        "provincia": "MARISCAL RAMON CASTILLA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "7823",
+        "departamento": "LORETO",
+        "provincia": "MAYNAS"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "132",
+        "departamento": "LORETO",
+        "provincia": "PUTUMAYO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "308",
+        "departamento": "LORETO",
+        "provincia": "REQUENA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "168",
+        "departamento": "LORETO",
+        "provincia": "UCAYALI"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "263",
+        "departamento": "MADRE DE DIOS",
+        "provincia": "MANU"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "375",
+        "departamento": "MADRE DE DIOS",
+        "provincia": "TAHUAMANU"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "3602",
+        "departamento": "MADRE DE DIOS",
+        "provincia": "TAMBOPATA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "193",
+        "departamento": "MOQUEGUA",
+        "provincia": "GENERAL SANCHEZ CERRO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "1592",
+        "departamento": "MOQUEGUA",
+        "provincia": "ILO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "3175",
+        "departamento": "MOQUEGUA",
+        "provincia": "MARISCAL NIETO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "198",
+        "departamento": "PASCO",
+        "provincia": "DANIEL ALCIDES CARRION"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "595",
+        "departamento": "PASCO",
+        "provincia": "OXAPAMPA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "1808",
+        "departamento": "PASCO",
+        "provincia": "PASCO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "448",
+        "departamento": "PIURA",
+        "provincia": "AYABACA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "179",
+        "departamento": "PIURA",
+        "provincia": "HUANCABAMBA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "702",
+        "departamento": "PIURA",
+        "provincia": "MORROPON"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "1750",
+        "departamento": "PIURA",
+        "provincia": "PAITA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "11059",
+        "departamento": "PIURA",
+        "provincia": "PIURA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "444",
+        "departamento": "PIURA",
+        "provincia": "SECHURA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "5965",
+        "departamento": "PIURA",
+        "provincia": "SULLANA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "1614",
+        "departamento": "PIURA",
+        "provincia": "TALARA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "157",
+        "departamento": "PUNO",
+        "provincia": "AZANGARO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "77",
+        "departamento": "PUNO",
+        "provincia": "CARABAYA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "183",
+        "departamento": "PUNO",
+        "provincia": "CHUCUITO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "149",
+        "departamento": "PUNO",
+        "provincia": "EL COLLAO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "122",
+        "departamento": "PUNO",
+        "provincia": "HUANCANE"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "61",
+        "departamento": "PUNO",
+        "provincia": "LAMPA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "108",
+        "departamento": "PUNO",
+        "provincia": "MELGAR"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "15",
+        "departamento": "PUNO",
+        "provincia": "MOHO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "1458",
+        "departamento": "PUNO",
+        "provincia": "PUNO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "35",
+        "departamento": "PUNO",
+        "provincia": "SAN ANTONIO DE PUTINA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "1393",
+        "departamento": "PUNO",
+        "provincia": "SAN ROMAN"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "68",
+        "departamento": "PUNO",
+        "provincia": "SANDIA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "90",
+        "departamento": "PUNO",
+        "provincia": "YUNGUYO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "507",
+        "departamento": "SAN MARTIN",
+        "provincia": "BELLAVISTA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "628",
+        "departamento": "SAN MARTIN",
+        "provincia": "EL DORADO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "320",
+        "departamento": "SAN MARTIN",
+        "provincia": "HUALLAGA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "594",
+        "departamento": "SAN MARTIN",
+        "provincia": "LAMAS"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "751",
+        "departamento": "SAN MARTIN",
+        "provincia": "MARISCAL CACERES"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "1632",
+        "departamento": "SAN MARTIN",
+        "provincia": "MOYOBAMBA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "297",
+        "departamento": "SAN MARTIN",
+        "provincia": "PICOTA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "882",
+        "departamento": "SAN MARTIN",
+        "provincia": "RIOJA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "4212",
+        "departamento": "SAN MARTIN",
+        "provincia": "SAN MARTIN"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "678",
+        "departamento": "SAN MARTIN",
+        "provincia": "TOCACHE"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "7",
+        "departamento": "TACNA",
+        "provincia": "CANDARAVE"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "86",
+        "departamento": "TACNA",
+        "provincia": "JORGE BASADRE"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "4508",
+        "departamento": "TACNA",
+        "provincia": "TACNA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "9",
+        "departamento": "TACNA",
+        "provincia": "TARATA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "252",
+        "departamento": "TUMBES",
+        "provincia": "CONTRALMIRANTE VILLAR"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "3905",
+        "departamento": "TUMBES",
+        "provincia": "TUMBES"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "675",
+        "departamento": "TUMBES",
+        "provincia": "ZARUMILLA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "137",
+        "departamento": "UCAYALI",
+        "provincia": "ATALAYA"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "9723",
+        "departamento": "UCAYALI",
+        "provincia": "CORONEL PORTILLO"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "798",
+        "departamento": "UCAYALI",
+        "provincia": "PADRE ABAD"
+    },
+    {
+        "fecha": "20200811",
+        "cantidad": "24",
+        "departamento": "UCAYALI",
+        "provincia": "PURUS"
+    }
+]

@@ -1,0 +1,792 @@
+[
+    {
+        "fecha": "15/03/2020",
+        "cantidad": "1822",
+        "contagios": "71"
+    },
+    {
+        "fecha": "16/03/2020",
+        "cantidad": "2315",
+        "contagios": "86"
+    },
+    {
+        "fecha": "17/03/2020",
+        "cantidad": "2797",
+        "contagios": "117"
+    },
+    {
+        "fecha": "18/03/2020",
+        "cantidad": "3075",
+        "contagios": "145"
+    },
+    {
+        "fecha": "19/03/2020",
+        "cantidad": "3841",
+        "contagios": "234"
+    },
+    {
+        "fecha": "20/03/2020",
+        "cantidad": "4298",
+        "contagios": "263"
+    },
+    {
+        "fecha": "21/03/2020",
+        "cantidad": "4985",
+        "contagios": "318"
+    },
+    {
+        "fecha": "22/03/2020",
+        "cantidad": "6184",
+        "contagios": "363"
+    },
+    {
+        "fecha": "23/03/2020",
+        "cantidad": "7013",
+        "contagios": "395"
+    },
+    {
+        "fecha": "24/03/2020",
+        "cantidad": "7486",
+        "contagios": "416"
+    },
+    {
+        "fecha": "25/03/2020",
+        "cantidad": "8040",
+        "contagios": "480"
+    },
+    {
+        "fecha": "26/03/2020",
+        "cantidad": "9219",
+        "contagios": "580"
+    },
+    {
+        "fecha": "27/03/2020",
+        "cantidad": "10065",
+        "contagios": "635"
+    },
+    {
+        "fecha": "28/03/2020",
+        "cantidad": "10896",
+        "contagios": "671"
+    },
+    {
+        "fecha": "29/03/2020",
+        "cantidad": "12669",
+        "contagios": "852"
+    },
+    {
+        "fecha": "30/03/2020",
+        "cantidad": "13452",
+        "contagios": "950"
+    },
+    {
+        "fecha": "31/03/2020",
+        "cantidad": "14463",
+        "contagios": "1065"
+    },
+    {
+        "fecha": "1/04/2020",
+        "cantidad": "15587",
+        "contagios": "1323"
+    },
+    {
+        "fecha": "2/04/2020",
+        "cantidad": "16518",
+        "contagios": "1414"
+    },
+    {
+        "fecha": "3/04/2020",
+        "cantidad": "17334",
+        "contagios": "1595"
+    },
+    {
+        "fecha": "4/04/2020",
+        "cantidad": "17841",
+        "contagios": "1746"
+    },
+    {
+        "fecha": "5/04/2020",
+        "cantidad": "19410",
+        "contagios": "2281"
+    },
+    {
+        "fecha": "6/04/2020",
+        "cantidad": "20414",
+        "contagios": "2561"
+    },
+    {
+        "fecha": "7/04/2020",
+        "cantidad": "21555",
+        "contagios": "2954"
+    },
+    {
+        "fecha": "8/04/2020",
+        "cantidad": "39599",
+        "contagios": "4342"
+    },
+    {
+        "fecha": "9/04/2020",
+        "cantidad": "48465",
+        "contagios": "5256"
+    },
+    {
+        "fecha": "10/04/2020",
+        "cantidad": "56681",
+        "contagios": "5897"
+    },
+    {
+        "fecha": "11/04/2020",
+        "cantidad": "65712",
+        "contagios": "6848"
+    },
+    {
+        "fecha": "12/04/2020",
+        "cantidad": "76506",
+        "contagios": "7519"
+    },
+    {
+        "fecha": "13/04/2020",
+        "cantidad": "87116",
+        "contagios": "9784"
+    },
+    {
+        "fecha": "14/04/2020",
+        "cantidad": "102216",
+        "contagios": "10303"
+    },
+    {
+        "fecha": "15/04/2020",
+        "cantidad": "109385",
+        "contagios": "11475"
+    },
+    {
+        "fecha": "16/04/2020",
+        "cantidad": "121468",
+        "contagios": "12491"
+    },
+    {
+        "fecha": "17/04/2020",
+        "cantidad": "127513",
+        "contagios": "13489"
+    },
+    {
+        "fecha": "18/04/2020",
+        "cantidad": "135895",
+        "contagios": "14420"
+    },
+    {
+        "fecha": "19/04/2020",
+        "cantidad": "143745",
+        "contagios": "15628"
+    },
+    {
+        "fecha": "20/04/2020",
+        "cantidad": "148011",
+        "contagios": "16325"
+    },
+    {
+        "fecha": "21/04/2020",
+        "cantidad": "155724",
+        "contagios": "17837"
+    },
+    {
+        "fecha": "22/04/2020",
+        "cantidad": "170400",
+        "contagios": "19250"
+    },
+    {
+        "fecha": "23/04/2020",
+        "cantidad": "185238",
+        "contagios": "20914"
+    },
+    {
+        "fecha": "24/04/2020",
+        "cantidad": "198349",
+        "contagios": "21648"
+    },
+    {
+        "fecha": "25/04/2020",
+        "cantidad": "218195",
+        "contagios": "25331"
+    },
+    {
+        "fecha": "26/04/2020",
+        "cantidad": "232747",
+        "contagios": "27517"
+    },
+    {
+        "fecha": "27/04/2020",
+        "cantidad": "239563",
+        "contagios": "28699"
+    },
+    {
+        "fecha": "28/04/2020",
+        "cantidad": "267612",
+        "contagios": "31190"
+    },
+    {
+        "fecha": "29/04/2020",
+        "cantidad": "296262",
+        "contagios": "33931"
+    },
+    {
+        "fecha": "30/04/2020",
+        "cantidad": "318252",
+        "contagios": "36976"
+    },
+    {
+        "fecha": "1/05/2020",
+        "cantidad": "342498",
+        "contagios": "40459"
+    },
+    {
+        "fecha": "2/05/2020",
+        "cantidad": "355604",
+        "contagios": "42534"
+    },
+    {
+        "fecha": "3/05/2020",
+        "cantidad": "375095",
+        "contagios": "45928"
+    },
+    {
+        "fecha": "4/05/2020",
+        "cantidad": "385492",
+        "contagios": "47372"
+    },
+    {
+        "fecha": "5/05/2020",
+        "cantidad": "406579",
+        "contagios": "51189"
+    },
+    {
+        "fecha": "6/05/2020",
+        "cantidad": "429458",
+        "contagios": "54817"
+    },
+    {
+        "fecha": "7/05/2020",
+        "cantidad": "448020",
+        "contagios": "58526"
+    },
+    {
+        "fecha": "8/05/2020",
+        "cantidad": "473190",
+        "contagios": "61847"
+    },
+    {
+        "fecha": "9/05/2020",
+        "cantidad": "494250",
+        "contagios": "65015"
+    },
+    {
+        "fecha": "10/05/2020",
+        "cantidad": "504930",
+        "contagios": "67307"
+    },
+    {
+        "fecha": "11/05/2020",
+        "cantidad": "512869",
+        "contagios": "68822"
+    },
+    {
+        "fecha": "12/05/2020",
+        "cantidad": "532169",
+        "contagios": "72059"
+    },
+    {
+        "fecha": "13/05/2020",
+        "cantidad": "553302",
+        "contagios": "76306"
+    },
+    {
+        "fecha": "14/05/2020",
+        "cantidad": "587292",
+        "contagios": "80604"
+    },
+    {
+        "fecha": "15/05/2020",
+        "cantidad": "605383",
+        "contagios": "84495"
+    },
+    {
+        "fecha": "16/05/2020",
+        "cantidad": "630482",
+        "contagios": "88541"
+    },
+    {
+        "fecha": "17/05/2020",
+        "cantidad": "650613",
+        "contagios": "92272"
+    },
+    {
+        "fecha": "18/05/2020",
+        "cantidad": "661132",
+        "contagios": "94933"
+    },
+    {
+        "fecha": "19/05/2020",
+        "cantidad": "679582",
+        "contagios": "99485"
+    },
+    {
+        "fecha": "20/05/2020",
+        "cantidad": "715423",
+        "contagios": "104020"
+    },
+    {
+        "fecha": "21/05/2020",
+        "cantidad": "736500",
+        "contagios": "108769"
+    },
+    {
+        "fecha": "22/05/2020",
+        "cantidad": "750526",
+        "contagios": "111698"
+    },
+    {
+        "fecha": "23/05/2020",
+        "cantidad": "788341",
+        "contagios": "115764"
+    },
+    {
+        "fecha": "24/05/2020",
+        "cantidad": "820967",
+        "contagios": "119959"
+    },
+    {
+        "fecha": "25/05/2020",
+        "cantidad": "840922",
+        "contagios": "123979"
+    },
+    {
+        "fecha": "26/05/2020",
+        "cantidad": "875721",
+        "contagios": "129751"
+    },
+    {
+        "fecha": "27/05/2020",
+        "cantidad": "905278",
+        "contagios": "135905"
+    },
+    {
+        "fecha": "28/05/2020",
+        "cantidad": "928797",
+        "contagios": "141779"
+    },
+    {
+        "fecha": "29/05/2020",
+        "cantidad": "963617",
+        "contagios": "148285"
+    },
+    {
+        "fecha": "30/05/2020",
+        "cantidad": "1012708",
+        "contagios": "155671"
+    },
+    {
+        "fecha": "31/05/2020",
+        "cantidad": "1058874",
+        "contagios": "164467"
+    },
+    {
+        "fecha": "1/06/2020",
+        "cantidad": "1076659",
+        "contagios": "170039"
+    },
+    {
+        "fecha": "2/06/2020",
+        "cantidad": "1092646",
+        "contagios": "174884"
+    },
+    {
+        "fecha": "3/06/2020",
+        "cantidad": "1115615",
+        "contagios": "178914"
+    },
+    {
+        "fecha": "4/06/2020",
+        "cantidad": "1135831",
+        "contagios": "183198"
+    },
+    {
+        "fecha": "5/06/2020",
+        "cantidad": "1154468",
+        "contagios": "187400"
+    },
+    {
+        "fecha": "6/06/2020",
+        "cantidad": "1173003",
+        "contagios": "191758"
+    },
+    {
+        "fecha": "7/06/2020",
+        "cantidad": "1191956",
+        "contagios": "196515"
+    },
+    {
+        "fecha": "8/06/2020",
+        "cantidad": "1203985",
+        "contagios": "199696"
+    },
+    {
+        "fecha": "9/06/2020",
+        "cantidad": "1227691",
+        "contagios": "203736"
+    },
+    {
+        "fecha": "10/06/2020",
+        "cantidad": "1255756",
+        "contagios": "208823"
+    },
+    {
+        "fecha": "11/06/2020",
+        "cantidad": "1282478",
+        "contagios": "214788"
+    },
+    {
+        "fecha": "12/06/2020",
+        "cantidad": "1315417",
+        "contagios": "220479"
+    },
+    {
+        "fecha": "13/06/2020",
+        "cantidad": "1338477",
+        "contagios": "225132"
+    },
+    {
+        "fecha": "14/06/2020",
+        "cantidad": "1360839",
+        "contagios": "229736"
+    },
+    {
+        "fecha": "15/06/2020",
+        "cantidad": "1376478",
+        "contagios": "232992"
+    },
+    {
+        "fecha": "16/06/2020",
+        "cantidad": "1396605",
+        "contagios": "237156"
+    },
+    {
+        "fecha": "17/06/2020",
+        "cantidad": "1417911",
+        "contagios": "240908"
+    },
+    {
+        "fecha": "18/06/2020",
+        "cantidad": "1439767",
+        "contagios": "244388"
+    },
+    {
+        "fecha": "19/06/2020",
+        "cantidad": "1461266",
+        "contagios": "247925"
+    },
+    {
+        "fecha": "20/06/2020",
+        "cantidad": "1482563",
+        "contagios": "251388"
+    },
+    {
+        "fecha": "21/06/2020",
+        "cantidad": "1504209",
+        "contagios": "254936"
+    },
+    {
+        "fecha": "22/06/2020",
+        "cantidad": "1517930",
+        "contagios": "257447"
+    },
+    {
+        "fecha": "23/06/2020",
+        "cantidad": "1539746",
+        "contagios": "260810"
+    },
+    {
+        "fecha": "24/06/2020",
+        "cantidad": "1561653",
+        "contagios": "264689"
+    },
+    {
+        "fecha": "25/06/2020",
+        "cantidad": "1583605",
+        "contagios": "268602"
+    },
+    {
+        "fecha": "26/06/2020",
+        "cantidad": "1604521",
+        "contagios": "272364"
+    },
+    {
+        "fecha": "27/06/2020",
+        "cantidad": "1625135",
+        "contagios": "275989"
+    },
+    {
+        "fecha": "28/06/2020",
+        "cantidad": "1645112",
+        "contagios": "279419"
+    },
+    {
+        "fecha": "29/06/2020",
+        "cantidad": "1661324",
+        "contagios": "282365"
+    },
+    {
+        "fecha": "30/06/2020",
+        "cantidad": "1679386",
+        "contagios": "285213"
+    },
+    {
+        "fecha": "01/07/2020",
+        "cantidad": "1699369",
+        "contagios": "288477"
+    },
+    {
+        "fecha": "02/07/2020",
+        "cantidad": "1720261",
+        "contagios": "292004"
+    },
+    {
+        "fecha": "03/07/2020",
+        "cantidad": "1740969",
+        "contagios": "295599"
+    },
+    {
+        "fecha": "04/07/2020",
+        "cantidad": "1761910",
+        "contagios": "299080"
+    },
+    {
+        "fecha": "05/07/2020",
+        "cantidad": "1782846",
+        "contagios": "302718"
+    },
+    {
+        "fecha": "06/07/2020",
+        "cantidad": "1800690",
+        "contagios": "305703"
+    },
+    {
+        "fecha": "07/07/2020",
+        "cantidad": "1821328",
+        "contagios": "309278"
+    },
+    {
+        "fecha": "08/07/2020",
+        "cantidad": "1842316",
+        "contagios": "312911"
+    },
+    {
+        "fecha": "09/07/2020",
+        "cantidad": "1863278",
+        "contagios": "316448"
+    },
+    {
+        "fecha": "10/07/2020",
+        "cantidad": "1883326",
+        "contagios": "319646"
+    },
+    {
+        "fecha": "11/07/2020",
+        "cantidad": "1904242",
+        "contagios": "322710"
+    },
+    {
+        "fecha": "12/07/2020",
+        "cantidad": "1925231",
+        "contagios": "326326"
+    },
+    {
+        "fecha": "13/07/2020",
+        "cantidad": "1943679",
+        "contagios": "330123"
+    },
+    {
+        "fecha": "14/07/2020",
+        "cantidad": "1963921",
+        "contagios": "333867"
+    },
+    {
+        "fecha": "15/07/2020",
+        "cantidad": "1983932",
+        "contagios": "337724"
+    },
+    {
+        "fecha": "16/07/2020",
+        "cantidad": "2003963",
+        "contagios": "341586"
+    },
+    {
+        "fecha": "17/07/2020",
+        "cantidad": "2023996",
+        "contagios": "345537"
+    },
+    {
+        "fecha": "18/07/2020",
+        "cantidad": "2042218",
+        "contagios": "349500"
+    },
+    {
+        "fecha": "19/07/2020",
+        "cantidad": "2063240",
+        "contagios": "353590"
+    },
+    {
+        "fecha": "20/07/2020",
+        "cantidad": "2084311",
+        "contagios": "357681"
+    },
+    {
+        "fecha": "21/07/2020",
+        "cantidad": "2109202",
+        "contagios": "362087"
+    },
+    {
+        "fecha": "22/07/2020",
+        "cantidad": "2133775",
+        "contagios": "366550"
+    },
+    {
+        "fecha": "23/07/2020",
+        "cantidad": "2158770",
+        "contagios": "371096"
+    },
+    {
+        "fecha": "24/07/2020",
+        "cantidad": "2183763",
+        "contagios": "375961"
+    },
+    {
+        "fecha": "25/07/2020",
+        "cantidad": "2206105",
+        "contagios": "379884"
+    },
+    {
+        "fecha": "26/07/2020",
+        "cantidad": "2230247",
+        "contagios": "384797"
+    },
+    {
+        "fecha": "27/07/2020",
+        "cantidad": "2250256",
+        "contagios": "389717"
+    },
+    {
+        "fecha": "28/07/2020",
+        "cantidad": "2270717",
+        "contagios": "395005"
+    },
+    {
+        "fecha": "29/07/2020",
+        "cantidad": "2293612",
+        "contagios": "400683"
+    },
+    {
+        "fecha": "30/07/2020",
+        "cantidad": "2318254",
+        "contagios": "407492"
+    },
+    {
+        "fecha": "31/07/2020",
+        "cantidad": "2348396",
+        "contagios": "414735"
+    },
+    {
+        "fecha": "01/08/2020",
+        "cantidad": "2377948",
+        "contagios": "422183"
+    },
+    {
+        "fecha": "02/08/2020",
+        "cantidad": "2404046",
+        "contagios": "428850"
+    },
+    {
+        "fecha": "03/08/2020",
+        "cantidad": "2417857",
+        "contagios": "433100"
+    },
+    {
+        "fecha": "04/08/2020",
+        "cantidad": "2440184",
+        "contagios": "439890"
+    },
+    {
+        "fecha": "05/08/2020",
+        "cantidad": "2466745",
+        "contagios": "447624"
+    },
+    {
+        "fecha": "06/08/2020",
+        "cantidad": "2493429",
+        "contagios": "455409"
+    },
+    {
+        "fecha": "07/08/2020",
+        "cantidad": "2522993",
+        "contagios": "463875"
+    },
+    {
+        "fecha": "08/08/2020",
+        "cantidad": "2548439",
+        "contagios": "471012"
+    },
+    {
+        "fecha": "09/08/2020",
+        "cantidad": "2573691",
+        "contagios": "478024"
+    },
+    {
+        "fecha": "10/08/2020",
+        "cantidad": "2590078",
+        "contagios": "483133"
+    },
+    {
+        "fecha": "11/08/2020",
+        "cantidad": "2612599",
+        "contagios": "489680"
+    },
+    {
+        "fecha": "12/08/2020",
+        "cantidad": "2643464",
+        "contagios": "498555"
+    },
+    {
+        "fecha": "13/08/2020",
+        "cantidad": "2677014",
+        "contagios": "507996"
+    },
+    {
+        "fecha": "14/08/2020",
+        "cantidad": "2705122",
+        "contagios": "516296"
+    },
+    {
+        "fecha": "15/08/2020",
+        "cantidad": "2738229",
+        "contagios": "525803"
+    },
+    {
+        "fecha": "16/08/2020",
+        "cantidad": "2773412",
+        "contagios": "535946"
+    },
+    {
+        "fecha": "17/08/2020",
+        "cantidad": "2793614",
+        "contagios": "541493"
+    },
+    {
+        "fecha": "18/08/2020",
+        "cantidad": "2818943",
+        "contagios": "549321"
+    },
+    {
+        "fecha": "19/08/2020",
+        "cantidad": "2852011",
+        "contagios": "558420"
+    }
+]
